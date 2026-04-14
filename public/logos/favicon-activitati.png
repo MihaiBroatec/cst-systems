@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Fonts -->
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <!-- Styles -->
+    <link href="/css/app.css" rel="stylesheet">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="zkWBXajwDDo5v41ZbCyUxCZPshvc2CRx8SIGiahn">
+
+    <title>Platforma | studentconsulting.ro</title>
+
+    <!-- Scripts -->
+    <script src="/js/app.js" defer></script>
+</head>
+<body>
+<div id="app"></div>
+</body>
+</html>

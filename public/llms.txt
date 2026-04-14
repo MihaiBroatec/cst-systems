@@ -1,0 +1,39 @@
+# CST Systems
+
+> CST Systems este o companie IT din Târgu Mureș, România, specializată în soluții digitale complete pentru afaceri din România și din întreaga lume.
+
+CST Systems is a professional IT software company based in Târgu Mureș, Romania.
+We provide end-to-end digital solutions including custom software development,
+presentation websites, e-commerce platforms, business automation, API integrations,
+and IT consulting — for clients in Romania and worldwide.
+
+## Services / Servicii
+
+- **Custom Software Development / Software Custom**: Tailored web and desktop applications built specifically for client business needs, including ERP, CRM and specialized platforms.
+- **Presentation Websites / Site-uri de Prezentare**: Modern, fast, mobile-responsive and SEO-optimized websites that convert visitors into clients.
+- **E-commerce / Magazine Online**: Full-featured online stores with inventory management, Stripe/card payments, and optimized shopping experience.
+- **Service Automation / Automatizare**: Workflow and business process automation — reducing costs, eliminating errors, increasing efficiency.
+- **API & Integrations / API & Integrări**: Connecting business systems with third-party services: payment processors, shipping carriers, invoicing software, CRM tools.
+- **IT Consulting / Consultanță IT**: Technical strategy, architecture planning, and technology selection guidance.
+
+## Technologies Used
+
+React, Next.js, TypeScript, Node.js, Python, PostgreSQL, MongoDB, Docker, AWS, Redis, Tailwind CSS, GraphQL, Prisma, Stripe
+
+## Contact
+
+- Email: hello@cst-systems.ro
+- Phone: +40748793253
+- Location: Târgu Mureș, Mureș County, Romania (works worldwide / lucrează global)
+- Website: https://cst-systems.ro
+- Languages: Romanian (default), English
+
+## Business Hours
+
+Monday–Friday: 09:00–18:00 (EET/EEST, UTC+2/UTC+3)
+
+## About
+
+Founded and operating in Târgu Mureș, Romania. Working with clients from Romania,
+Europe and internationally. All projects include post-launch support.
+Fluent in Romanian and English.

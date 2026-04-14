@@ -1,0 +1,226 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "technologies": "Technologies",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "cta": "Let's Talk"
+  },
+  "hero": {
+    "badge": "IT Company from Târgu Mureș, Romania",
+    "title": "Digital Solutions",
+    "titleAccent": "for Your Business",
+    "subtitle": "We build custom software, mobile apps, presentation websites, online stores, automation solutions and digital marketing strategies tailored to your business needs. We work with clients worldwide.",
+    "cta": "Let's Talk",
+    "ctaSecondary": "Our Services",
+    "scrollDown": "Discover more"
+  },
+  "stats": {
+    "projects": "Projects delivered",
+    "clients": "Happy clients",
+    "years": "Years experience",
+    "support": "Support available"
+  },
+  "services": {
+    "badge": "What we offer",
+    "title": "Our",
+    "titleAccent": "Services",
+    "subtitle": "From idea to final product — we provide complete solutions for your business digital transformation.",
+    "items": {
+      "software": {
+        "title": "Custom Software",
+        "description": "Tailored applications built exactly for your business needs — from ERP and CRM to specialized platforms."
+      },
+      "websites": {
+        "title": "Presentation Websites",
+        "description": "Modern, fast and SEO-optimized websites that turn visitors into clients. Unique design, built for your brand."
+      },
+      "ecommerce": {
+        "title": "Online Stores",
+        "description": "Complete e-commerce solutions with inventory management, online payments, and optimized shopping experience."
+      },
+      "automation": {
+        "title": "Service Automation",
+        "description": "We automate your business's repetitive processes — reduce costs, increase efficiency, eliminate human errors."
+      },
+      "api": {
+        "title": "API & Integrations",
+        "description": "We connect your systems with external services — payments, shipping, invoicing, CRM, marketing and more."
+      },
+      "consulting": {
+        "title": "IT Consulting",
+        "description": "We guide you in choosing the right solution for your business — analysis, strategy and technical architecture."
+      },
+      "marketing": {
+        "title": "Marketing & Advertising",
+        "description": "Specialists in digital marketing, advertising, social media and brand strategy. We've collaborated with major well-known brands and know what works."
+      },
+      "mobile": {
+        "title": "Mobile Applications",
+        "description": "We develop native and cross-platform apps for Android and iOS — from concept and UX design, to publishing on the App Store and Google Play."
+      }
+    }
+  },
+  "about": {
+    "badge": "Who we are",
+    "title": "About",
+    "titleAccent": "CST Systems",
+    "paragraph1": "We are a team of IT and marketing specialists from Târgu Mureș, Romania, with a passion for technology and innovation. We create complete digital solutions — from software and websites to marketing strategies and advertising — for businesses in Romania and worldwide.",
+    "paragraph2": "Each project is treated with utmost seriousness — from initial analysis and design, to implementation, testing and post-launch support. We have collaborated with major well-known brands and know how to build digital presences that generate real results.",
+    "values": {
+      "quality": {
+        "title": "Quality",
+        "description": "Clean, performant and scalable code for lasting projects"
+      },
+      "speed": {
+        "title": "Speed",
+        "description": "We deliver on time, without compromising quality"
+      },
+      "support": {
+        "title": "Support",
+        "description": "We are with you even after your project launches"
+      },
+      "global": {
+        "title": "Global Reach",
+        "description": "Working with clients from Romania, Europe and worldwide"
+      }
+    }
+  },
+  "technologies": {
+    "badge": "Tech stack",
+    "title": "Modern",
+    "titleAccent": "Technologies",
+    "subtitle": "We use the latest technologies to build performant, secure and scalable solutions."
+  },
+  "portfolio": {
+    "badge": "Our clients",
+    "title": "Completed",
+    "titleAccent": "Projects",
+    "subtitle": "Some of the projects and products we have created.",
+    "clientsTitle": "Clients",
+    "productsTitle": "Our Products",
+    "productsSubtitle": "SaaS solutions built by CST Systems, available for any business.",
+    "visitSite": "Visit website",
+    "tryProduct": "Try for free",
+    "clients": {
+      "rava": {
+        "title": "Rava Pilates",
+        "category": "Website + Dashboard",
+        "description": "Modern presentation website + full bookings dashboard and client management system for a pilates studio."
+      },
+      "leclub": {
+        "title": "Le Club",
+        "category": "Presentation Website",
+        "description": "Elegant web platform for a premium venue, with menu and reservations."
+      },
+      "ursadmin": {
+        "title": "URS Admin",
+        "category": "Custom Software",
+        "description": "Internal administration platform with dashboard, reports and data management."
+      },
+      "activitati": {
+        "title": "Extracurricular Activities",
+        "category": "Web Platform",
+        "description": "Educational platform for extracurricular courses and activities for children."
+      },
+      "studentconsulting": {
+        "title": "Student Consulting",
+        "category": "Platform + Automation",
+        "description": "Full secretariat management and automation platform — student & parent portal plus a dedicated secretariat interface."
+      },
+      "smartstudent": {
+        "title": "Smart Student",
+        "category": "Mobile App + Dashboard",
+        "description": "Mobile application for students + full admin dashboard — content management, user administration and reporting."
+      },
+      "bioinfoCluster": {
+        "title": "BioInfo Cluster",
+        "category": "Dynamic Website + CMS",
+        "description": "Dynamic website for a bioinformatics cluster, fully managed from a custom dashboard — articles, projects and member profiles."
+      },
+      "fereze": {
+        "title": "Fereze.com",
+        "category": "Software Collaboration",
+        "description": "Collaboration on various interesting software projects — custom solutions developed together."
+      },
+      "stefimenaRT": {
+        "title": "Stefi Lemnart",
+        "category": "Presentation Website",
+        "description": "Modern and elegant presentation website for professional services."
+      }
+    },
+    "products": {
+      "gym": {
+        "title": "WidgetGym",
+        "category": "SaaS Product — Fitness",
+        "description": "Embeddable widget for gyms: class schedule, bookings, memberships. Easy integration on any website."
+      },
+      "beauty": {
+        "title": "Beauty Platform",
+        "category": "SaaS Product — Salons",
+        "description": "Complete platform for beauty salons: online appointments, client management and services."
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "Client feedback",
+    "title": "What Our",
+    "titleAccent": "Clients Say",
+    "items": {
+      "t1": {
+        "name": "Alexandru Popescu",
+        "role": "CEO, TechStart SRL",
+        "text": "CST Systems delivered an exceptional product in record time. Communication was impeccable and the result exceeded our expectations."
+      },
+      "t2": {
+        "name": "Maria Ionescu",
+        "role": "Director, Fashion Store",
+        "text": "Our online store built by CST Systems increased sales by 40% in the first 3 months. Highly recommended!"
+      },
+      "t3": {
+        "name": "David Weber",
+        "role": "CTO, EuroTech GmbH",
+        "text": "Professional team, excellent code quality and on-time delivery. We continue to work with CST Systems for all our projects."
+      }
+    }
+  },
+  "contact": {
+    "badge": "Let's connect",
+    "title": "Contact",
+    "titleAccent": "Us Today",
+    "subtitle": "Have a project in mind? Write to us and we'll get back with a personalized offer as soon as possible.",
+    "form": {
+      "name": "Your name",
+      "email": "Email address",
+      "subject": "Subject",
+      "message": "Your message",
+      "send": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent! We'll contact you soon.",
+      "namePlaceholder": "John Doe",
+      "emailPlaceholder": "john@example.com",
+      "subjectPlaceholder": "I need a presentation website",
+      "messagePlaceholder": "Describe your project..."
+    },
+    "info": {
+      "location": "Târgu Mureș, Romania",
+      "locationSub": "Working with clients worldwide",
+      "email": "hello@cst-systems.ro",
+      "emailSub": "We reply within 24 hours",
+      "phone": "+40 748 793 253",
+      "phoneSub": "Monday - Friday, 9:00 - 18:00",
+      "social": "Follow us"
+    }
+  },
+  "footer": {
+    "description": "Modern IT solutions for ambitious businesses. From Târgu Mureș to the world.",
+    "links": "Quick links",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  }
+}

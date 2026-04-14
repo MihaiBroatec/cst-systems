@@ -1,0 +1,226 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "about": "Despre noi",
+    "technologies": "Tehnologii",
+    "portfolio": "Portofoliu",
+    "contact": "Contact",
+    "cta": "Hai să vorbim"
+  },
+  "hero": {
+    "badge": "Companie IT din Târgu Mureș",
+    "title": "Soluții Digitale",
+    "titleAccent": "pentru Afacerea Ta",
+    "subtitle": "Creăm software personalizat, aplicații mobile, site-uri de prezentare, magazine online, soluții de automatizare și strategii de marketing adaptate nevoilor afacerii tale. Lucrăm cu clienți din toată lumea.",
+    "cta": "Hai să vorbim",
+    "ctaSecondary": "Serviciile noastre",
+    "scrollDown": "Descoperă mai mult"
+  },
+  "stats": {
+    "projects": "Proiecte finalizate",
+    "clients": "Clienți mulțumiți",
+    "years": "Ani experiență",
+    "support": "Suport disponibil"
+  },
+  "services": {
+    "badge": "Ce oferim",
+    "title": "Serviciile",
+    "titleAccent": "Noastre",
+    "subtitle": "De la idee la produs final — oferim soluții complete pentru transformarea digitală a afacerii tale.",
+    "items": {
+      "software": {
+        "title": "Software Custom",
+        "description": "Aplicații personalizate construite exact pe nevoile afacerii tale, de la ERP și CRM la platforme specializate."
+      },
+      "websites": {
+        "title": "Site-uri de Prezentare",
+        "description": "Site-uri moderne, rapide și optimizate SEO care transformă vizitatorii în clienți. Design unic, creat pentru brandul tău."
+      },
+      "ecommerce": {
+        "title": "Magazine Online",
+        "description": "Soluții complete de e-commerce cu gestionare stocuri, plăți online, și experiență de cumpărare optimizată."
+      },
+      "automation": {
+        "title": "Automatizare Servicii",
+        "description": "Automatizăm procesele repetitive ale afacerii tale — reducere costuri, creștere eficiență, eliminare erori umane."
+      },
+      "api": {
+        "title": "API & Integrări",
+        "description": "Conectăm sistemele tale cu servicii externe — plăți, curierat, facturare, CRM, marketing și multe altele."
+      },
+      "consulting": {
+        "title": "Consultanță IT",
+        "description": "Te ghidăm în alegerea soluției potrivite pentru afacerea ta — analiză, strategie și arhitectură tehnică."
+      },
+      "marketing": {
+        "title": "Marketing & Advertising",
+        "description": "Specialiști în marketing digital, advertising, social media și strategie de brand. Am colaborat cu branduri mari de renume și știm ce funcționează."
+      },
+      "mobile": {
+        "title": "Aplicații Mobile",
+        "description": "Dezvoltăm aplicații native și cross-platform pentru Android și iOS — de la concept și design UX, până la publicare în App Store și Google Play."
+      }
+    }
+  },
+  "about": {
+    "badge": "Cine suntem",
+    "title": "Despre",
+    "titleAccent": "CST Systems",
+    "paragraph1": "Suntem o echipă de specialiști IT și marketing din Târgu Mureș, România, cu pasiune pentru tehnologie și inovație. Creăm soluții digitale complete — de la software și site-uri, până la strategii de marketing și advertising — pentru afaceri din România și din întreaga lume.",
+    "paragraph2": "Fiecare proiect este tratat cu maximă seriozitate — de la analiza inițială și design, până la implementare, testare și suport post-lansare. Am colaborat cu branduri mari de renume și știm cum să construim prezențe digitale care generează rezultate reale.",
+    "values": {
+      "quality": {
+        "title": "Calitate",
+        "description": "Cod curat, performant și scalabil pentru proiecte durabile"
+      },
+      "speed": {
+        "title": "Rapiditate",
+        "description": "Livrăm la timp, fără compromisuri la calitate"
+      },
+      "support": {
+        "title": "Suport",
+        "description": "Suntem alături de tine și după lansarea proiectului"
+      },
+      "global": {
+        "title": "Prezență Globală",
+        "description": "Lucrăm cu clienți din România, Europa și din toată lumea"
+      }
+    }
+  },
+  "technologies": {
+    "badge": "Stack tehnic",
+    "title": "Tehnologii",
+    "titleAccent": "Moderne",
+    "subtitle": "Folosim cele mai noi tehnologii pentru a construi soluții performante, sigure și scalabile."
+  },
+  "portfolio": {
+    "badge": "Clienții noștri",
+    "title": "Proiecte",
+    "titleAccent": "Realizate",
+    "subtitle": "Câteva dintre proiectele și produsele pe care le-am creat.",
+    "clientsTitle": "Clienți",
+    "productsTitle": "Produsele noastre",
+    "productsSubtitle": "Soluții SaaS create de CST Systems, disponibile pentru orice afacere.",
+    "visitSite": "Vizitează site-ul",
+    "tryProduct": "Încearcă gratuit",
+    "clients": {
+      "rava": {
+        "title": "Rava Pilates",
+        "category": "Site + Dashboard",
+        "description": "Site de prezentare modern + dashboard complet de programări și gestiune clienți pentru studio de pilates."
+      },
+      "leclub": {
+        "title": "Le Club",
+        "category": "Site de Prezentare",
+        "description": "Platformă web elegantă pentru venue premium, cu meniu și rezervări."
+      },
+      "ursadmin": {
+        "title": "URS Admin",
+        "category": "Software Custom",
+        "description": "Platformă de administrare internă cu dashboard, rapoarte și gestiune date."
+      },
+      "activitati": {
+        "title": "Activități Extrașcolare",
+        "category": "Platformă Web",
+        "description": "Platformă educațională pentru cursuri și activități extrașcolare pentru copii."
+      },
+      "studentconsulting": {
+        "title": "Student Consulting",
+        "category": "Platformă + Automatizare",
+        "description": "Platformă completă de gestiune și automatizare secretariat — portal pentru elevi și părinți, plus interfață dedicată secretariatului."
+      },
+      "smartstudent": {
+        "title": "Smart Student",
+        "category": "Aplicație Mobilă + Dashboard",
+        "description": "Aplicație mobilă pentru studenți + dashboard de administrare complet pentru admini — gestionare conținut, utilizatori și rapoarte."
+      },
+      "bioinfoCluster": {
+        "title": "BioInfo Cluster",
+        "category": "Site Dinamic + CMS",
+        "description": "Website dinamic pentru cluster de bioinformatică, gestionat complet dintr-un dashboard custom — publicare articole, proiecte și membri."
+      },
+      "fereze": {
+        "title": "Fereze.com",
+        "category": "Colaborare Software",
+        "description": "Colaborare pe diverse proiecte software interesante — soluții custom dezvoltate împreună."
+      },
+      "stefimenaRT": {
+        "title": "Stefi Lemnart",
+        "category": "Site de Prezentare",
+        "description": "Site de prezentare modern și elegant pentru servicii profesionale."
+      }
+    },
+    "products": {
+      "gym": {
+        "title": "WidgetGym",
+        "category": "Produs SaaS — Săli de Fitness",
+        "description": "Widget embeddable pentru săli de sport: orar clase, rezervări, abonamente. Integrare simplă pe orice site."
+      },
+      "beauty": {
+        "title": "Beauty Platform",
+        "category": "Produs SaaS — Saloane",
+        "description": "Platformă completă pentru saloane de înfrumusețare: programări online, gestiune clienți și servicii."
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "Feedback clienți",
+    "title": "Ce spun",
+    "titleAccent": "Clienții Noștri",
+    "items": {
+      "t1": {
+        "name": "Alexandru Popescu",
+        "role": "CEO, TechStart SRL",
+        "text": "CST Systems ne-a livrat un produs excepțional în timp record. Comunicarea a fost impecabilă iar rezultatul a depășit așteptările noastre."
+      },
+      "t2": {
+        "name": "Maria Ionescu",
+        "role": "Director, Fashion Store",
+        "text": "Magazine-ul nostru online realizat de CST Systems a crescut vânzările cu 40% în primele 3 luni. Recomand cu încredere!"
+      },
+      "t3": {
+        "name": "David Weber",
+        "role": "CTO, EuroTech GmbH",
+        "text": "Professional team, excellent code quality and on-time delivery. We continue to work with CST Systems for all our projects."
+      }
+    }
+  },
+  "contact": {
+    "badge": "Hai să vorbim",
+    "title": "Contactează-ne",
+    "titleAccent": "Astăzi",
+    "subtitle": "Ai un proiect în minte? Scrie-ne și vom reveni cu o ofertă personalizată în cel mai scurt timp.",
+    "form": {
+      "name": "Numele tău",
+      "email": "Adresa de email",
+      "subject": "Subiect",
+      "message": "Mesajul tău",
+      "send": "Trimite mesajul",
+      "sending": "Se trimite...",
+      "success": "Mesaj trimis! Te contactăm în curând.",
+      "namePlaceholder": "Ion Popescu",
+      "emailPlaceholder": "ion@exemplu.ro",
+      "subjectPlaceholder": "Vreau un site de prezentare",
+      "messagePlaceholder": "Descrie proiectul tău..."
+    },
+    "info": {
+      "location": "Târgu Mureș, România",
+      "locationSub": "Lucrăm cu clienți din toată lumea",
+      "email": "hello@cst-systems.ro",
+      "emailSub": "Răspundem în 24 ore",
+      "phone": "0748 793 253",
+      "phoneSub": "Luni - Vineri, 9:00 - 18:00",
+      "social": "Urmărește-ne"
+    }
+  },
+  "footer": {
+    "description": "Soluții IT moderne pentru afaceri ambițioase. Din Târgu Mureș pentru întreaga lume.",
+    "links": "Link-uri rapide",
+    "services": "Servicii",
+    "contact": "Contact",
+    "rights": "Toate drepturile rezervate.",
+    "privacy": "Politică de confidențialitate",
+    "terms": "Termeni și condiții"
+  }
+}
