@@ -170,18 +170,18 @@
     "titleAccent": "Clienții Noștri",
     "items": {
       "t1": {
-        "name": "Alexandru Popescu",
-        "role": "CEO, TechStart SRL",
+        "name": "Raluca Ursu",
+        "role": "Owner, Rava Pilates",
         "text": "CST Systems ne-a livrat un produs excepțional în timp record. Comunicarea a fost impecabilă iar rezultatul a depășit așteptările noastre."
       },
       "t2": {
-        "name": "Maria Ionescu",
-        "role": "Director, Fashion Store",
-        "text": "Magazine-ul nostru online realizat de CST Systems a crescut vânzările cu 40% în primele 3 luni. Recomand cu încredere!"
+        "name": "Av. Rareș U.",
+        "role": "CEO, Ursadmin",
+        "text": "Platforma de administrare realizată de CST Systems ne-a simplificat enorm activitatea internă. Dashboard-ul este intuitiv, rapoartele clare, iar echipa a fost extrem de profesionistă pe tot parcursul proiectului."
       },
       "t3": {
-        "name": "David Weber",
-        "role": "CTO, EuroTech GmbH",
+        "name": "Moldovan Călin",
+        "role": "Owner, stefi-lemnart.ro",
         "text": "Professional team, excellent code quality and on-time delivery. We continue to work with CST Systems for all our projects."
       }
     }

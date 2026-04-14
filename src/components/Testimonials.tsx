@@ -9,7 +9,7 @@ const avatarColors = [
   'from-emerald-500 to-teal-600',
 ];
 
-const initials = ['AP', 'MI', 'DW'];
+const initials = ['UR', 'RU', 'MC'];
 
 export function Testimonials() {
   const t = useTranslations('testimonials');

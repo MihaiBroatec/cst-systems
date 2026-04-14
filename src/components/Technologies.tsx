@@ -13,7 +13,7 @@ const techStack = [
   { name: 'MongoDB', emoji: '🍃', color: 'from-emerald-400/15 to-emerald-600/15', border: 'border-emerald-400/25', text: 'text-emerald-600' },
   { name: 'Docker', emoji: '🐳', color: 'from-teal-400/15 to-teal-600/15', border: 'border-teal-400/25', text: 'text-teal-600' },
   { name: 'AWS', emoji: '☁️', color: 'from-orange-400/15 to-amber-600/15', border: 'border-orange-400/25', text: 'text-orange-500' },
-  { name: 'Redis', emoji: '🔴', color: 'from-red-400/15 to-red-600/15', border: 'border-red-400/25', text: 'text-red-500' },
+  { name: 'AI', emoji: '🤖', color: 'from-violet-400/15 to-purple-600/15', border: 'border-violet-400/25', text: 'text-violet-600' },
   { name: 'Tailwind', emoji: '💨', color: 'from-teal-400/15 to-cyan-600/15', border: 'border-teal-400/25', text: 'text-teal-600' },
   { name: 'GraphQL', emoji: '🔮', color: 'from-pink-400/15 to-rose-600/15', border: 'border-pink-400/25', text: 'text-pink-500' },
   { name: 'Prisma', emoji: '◈', color: 'from-slate-400/15 to-slate-600/15', border: 'border-slate-400/25', text: 'text-slate-500' },

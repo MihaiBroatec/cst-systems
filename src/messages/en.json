@@ -170,18 +170,18 @@
     "titleAccent": "Clients Say",
     "items": {
       "t1": {
-        "name": "Alexandru Popescu",
-        "role": "CEO, TechStart SRL",
+        "name": "Raluca Ursu",
+        "role": "Owner, Rava Pilates",
         "text": "CST Systems delivered an exceptional product in record time. Communication was impeccable and the result exceeded our expectations."
       },
       "t2": {
-        "name": "Maria Ionescu",
-        "role": "Director, Fashion Store",
-        "text": "Our online store built by CST Systems increased sales by 40% in the first 3 months. Highly recommended!"
+        "name": "Av. Rareș U.",
+        "role": "CEO, Ursadmin",
+        "text": "The administration platform built by CST Systems greatly simplified our internal operations. The dashboard is intuitive, the reports are clear, and the team was extremely professional throughout the entire project."
       },
       "t3": {
-        "name": "David Weber",
-        "role": "CTO, EuroTech GmbH",
+        "name": "Moldovan Călin",
+        "role": "Owner, stefi-lemnart.ro",
         "text": "Professional team, excellent code quality and on-time delivery. We continue to work with CST Systems for all our projects."
       }
     }
